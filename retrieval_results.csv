@@ -1,0 +1,26 @@
+question,expected_document,retrieved_documents,top3_hit,top1_hit
+How much does the premium Zepto membership cost each month?,doc_03,"doc_03, doc_01, doc_08",True,True
+What happens if no delivery rider is available for a packed order?,doc_05,"doc_05, doc_04, doc_01",True,True
+Will I get my membership fee back if I cancel my pass?,doc_03,"doc_03, doc_05, doc_02",True,True
+Are gift cards available in different monetary values?,doc_07,"doc_07, doc_01, doc_02",True,True
+How quickly should a refund appear on my original payment method?,doc_02,"doc_02, doc_06, doc_05",True,True
+What is the usual delivery time for an order?,doc_01,"doc_01, doc_04, doc_02",True,True
+How should I report groceries that arrived damaged?,doc_06,"doc_06, doc_02, doc_04",True,True
+Where can I follow my delivery person's live location?,doc_04,"doc_04, doc_01, doc_02",True,True
+What proof should I provide for an expensive missing-item complaint?,doc_06,"doc_06, doc_02, doc_05",True,True
+What should I do when an item is missing from my delivered order?,doc_06,"doc_06, doc_02, doc_05",True,True
+How long do I have to report spoiled items?,doc_02,"doc_06, doc_02, doc_05",True,False
+Can I cancel an order in the app once packing has started?,doc_05,"doc_05, doc_02, doc_01",True,True
+What should I do if my delivery is running late and the rider has not moved?,doc_04,"doc_04, doc_05, doc_06",True,True
+What is the minimum cart value for free delivery?,doc_01,"doc_01, doc_02, doc_05",True,True
+Is there an additional charge for faster delivery?,doc_01,"doc_01, doc_05, doc_02",True,True
+Does Zepto offer phone support or email assistance?,doc_08,"doc_08, doc_03, doc_01",True,True
+Can I return a personal care item after opening its packaging?,doc_02,"doc_02, doc_06, doc_05",True,True
+How soon does the email support team respond?,doc_08,"doc_08, doc_06, doc_04",True,True
+What advantages do customers receive with Zepto Pass?,doc_03,"doc_03, doc_01, doc_08",True,True
+Are unopened non-perishable products eligible for returns?,doc_02,"doc_02, doc_06, doc_05",True,True
+Can I contact customer support late at night?,doc_08,"doc_08, doc_06, doc_04",True,True
+How long can I use a Zepto gift card after buying it?,doc_07,"doc_07, doc_02, doc_01",True,True
+Can I combine a gift voucher with another way of paying?,doc_07,"doc_07, doc_03, doc_01",True,True
+At what point does cancelling an order stop being free?,doc_05,"doc_05, doc_02, doc_06",True,True
+When can I start tracking the rider assigned to my order?,doc_04,"doc_04, doc_05, doc_06",True,True
